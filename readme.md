@@ -12,4 +12,4 @@ MandaTrends, a newsletter da Mandarin. Feito com base no arquivo .psd fornecido 
 * Acessibilidade
 * Design responsivo
 
-Você pode ver esse projeto clicando [aqui!](https://felipemanchester.github.io/DoctorCare/)
+Você pode ver esse projeto clicando [aqui!](https://felipemanchester.github.io/teste-mandarin/)
